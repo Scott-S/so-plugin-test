@@ -1,1 +1,1 @@
-# so-plugin-test
+# discourse-plugin-test
